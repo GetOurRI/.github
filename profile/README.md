@@ -42,6 +42,7 @@
     <a href="https://getourri.github.io/DungDong"><strong>둥지동지 바로가기</strong></a>
     <br />
     <br />
+   🏆 중앙대학교 AI﹒SW융합 우수성과발표대회 우수상
   </p>
 </div>
 
@@ -50,7 +51,7 @@
 <!-- 프로젝트 소개 -->
 ## 프로젝트 소개
 
-![둥지동지 스크린샷](../assets/main_product_img.png)
+![둥지동지 스크린샷](../assets/main_product_img.jpeg)
 
 둥지동지는 중앙대학교 다빈치 캠퍼스의 학우들이 기숙사 룸메이트를 빠르고 편하게 구할 수 있도록 기획한 프로젝트입니다.<br>
 자신의 기숙사 생활에 대한 설문을 기반으로 룸메이트 구인 글에 사용할 이미지를 자동으로 생성해줍니다.
