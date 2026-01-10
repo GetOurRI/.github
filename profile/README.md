@@ -84,13 +84,14 @@
 둥지동지를 제작한 **팀 고리(GORI - Get Our Roommate Instantly)** 를 소개합니다. 팀 고리는 중앙대 **예술공학부**를 기반에 두고 모였습니다. 
 <br>덧붙여, <둥지동지> 이름을 지어준 김태희씨, 제작에 힘이 되어준 칸타르 친구들에게 감사인사를 드립니다.
 
-|  | 이름 | 역할 | 비고 |
-|--------|------|-------|------|
-| <img src="../assets/JEB.svg" width="64" height="64" style="margin: 4px;"> | 조은비 | `최초 기획` `프론트 개발` `백엔드 개발` | [github](https://github.com/Ebee1205) [블로그](https://wavicle.tistory.com/) |
-| <img src="../assets/BJO.svg" width="64" height="64" style="margin: 4px;"> | 백지오 | `UX/UI 디자인` `편집 디자인` | [github](https://github.com/jio311) [포트폴리오](https://sites.google.com/view/jiographic) |
-| <img src="../assets/GYG.svg" width="64" height="64" style="margin: 4px;"> | 고예경 | `QA` `UX 개선` `기획안 개선` | [github](https://github.com/ZakZak0112) |
-| <img src="../assets/PJM.svg" width="64" height="64" style="margin: 4px;"> | 박정민 | `프론트 개발` `프론트 유지보수` | [github](https://github.com/jeongminnnnni) [블로그](https://jeongm1n1.tistory.com) |
-| <img src="../assets/HMG.svg" width="64" height="64" style="margin: 4px;"> | 홍민기 | `데이터 분석` | [github](https://github.com/mingiraffe) [블로그](https://mingiraffe03.tistory.com) |
+|  | 이름 | 역할 | 참여 기간 | 비고 |
+|:---:|:---:|:-------|:---:|:------|
+| <img src="../assets/JEB.svg" width="64" height="64" style="margin: 4px;"> | 조은비 | `최초 기획` `프론트 개발` `백엔드 개발` | 초기 개발 ~ 현재 | [github](https://github.com/Ebee1205) [블로그](https://wavicle.tistory.com/) |
+| <img src="../assets/BJO.svg" width="64" height="64" style="margin: 4px;"> | 백지오 | `UX/UI 디자인` `편집 디자인` | 초기 개발 ~ 현재 | [github](https://github.com/jio311) [포트폴리오](https://sites.google.com/view/jiographic) |
+| <img src="../assets/GYG.svg" width="64" height="64" style="margin: 4px;"> | 고예경 | `QA` `UX 개선` `기획안 개선` | 1, 2차 서비스<br>(~ v1.0.0) | [github](https://github.com/ZakZak0112) |
+| <img src="../assets/PJM.svg" width="64" height="64" style="margin: 4px;"> | 박정민 | `프론트 개발` `프론트 유지보수` | 3차 서비스 준비<br>(v2.0.0) | [github](https://github.com/jeongminnnnni) [블로그](https://jeongm1n1.tistory.com) |
+| <img src="../assets/HMG.svg" width="64" height="64" style="margin: 4px;"> | 홍민기 | `데이터 분석` | 3차 서비스 준비<br>(v2.0.0) | [github](https://github.com/mingiraffe) [블로그](https://mingiraffe03.tistory.com) |
+| <img src="../assets/KJH.svg" width="64" height="64" style="margin: 4px;"> | 김주환 | `백엔드 개발` `AI` | 3차 서비스 런칭<br>(v2.0.0 ~) | [github](https://github.com/jkwltx177) |
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
